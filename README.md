@@ -1,4 +1,10 @@
 # Todo List App
+
+> ⚠️ **Archived Notice**  
+> This project was built during my initial learning phase.  
+> This repository is archived and kept only for history and progress tracking.  
+> A better and more professional version of this project will be built in a new repository.
+
 A simple and responsive Todo List Application built using HTML, CSS, and JavaScript.
 This project allows users to add tasks, mark them as completed, and delete tasks easily.
 All tasks are stored in the browser using LocalStorage, so your data stays saved even after refreshing the page.
